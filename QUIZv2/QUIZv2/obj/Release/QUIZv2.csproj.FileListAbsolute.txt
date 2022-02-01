@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\bin\Release\QUIZv2.exe.config
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\bin\Release\QUIZv2.exe
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\bin\Release\QUIZv2.pdb
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.Form1.resources
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.Properties.Resources.resources
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.exe
+C:\Users\Adam\source\repos\QUIZv2\QUIZv2\obj\Release\QUIZv2.pdb
